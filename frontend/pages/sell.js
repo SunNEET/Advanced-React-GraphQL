@@ -5,9 +5,6 @@ const Sell = (props) => {
     return (
         <div>
             <p>Sell!</p>
-            <Link href="/">
-                <a>Hey!</a>
-            </Link>
         </div>
     );
 }
