@@ -9,7 +9,6 @@ Router.onRouteChangeStart = () => {
 };
 
 Router.onRouteChangeComplete = () => {
-
   NProgress.done();
 };
 
